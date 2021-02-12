@@ -1,0 +1,4 @@
+Test Git Lifecycle workflow
+working directory
+staging area
+local(git) repository
